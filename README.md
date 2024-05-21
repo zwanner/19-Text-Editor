@@ -4,6 +4,8 @@
  
  A simple PWA text editor for your browser
 
+ Source code is in the `src` folder.
+
  [LIVE PAGE](https://one9-text-editor-3wwo.onrender.com/)
 ## Table of Contents
  * [Installation](#installation)
@@ -13,9 +15,9 @@
  * [Tests](#tests)
  * [Questions](#questions)
 ## Installation
- run 'npm install'
+ run `npm install`
 ## Usage
- run 'npm run start'
+ run `npm run start`
 ## License
     This project is licensed under the MIT license.
  [License](https://opensource.org/licenses/MIT)
